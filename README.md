@@ -1,1 +1,1 @@
-https://appArcade.github.io/
+https://apparcade.github.io/
